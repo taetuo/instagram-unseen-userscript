@@ -3,7 +3,7 @@
 // @namespace    https://github.com/taetuo
 // @homepageURL  https://github.com/taetuo/instagram-unseen-userscript
 // @supportURL   https://github.com/taetuo/instagram-unseen-userscript/issues
-// @downloadURL  https://github.com/taetuo/instagram-unseen-userscript/raw/branch/main/instagram-unseen.user.js
+// @downloadURL  https://github.com/taetuo/instagram-unseen-userscript/raw/main/instagram-unseen.user.js
 // @version      0.1.0
 // @description  Become a terrible friend—keep their messages unseen.
 // @author       TaeTuo
