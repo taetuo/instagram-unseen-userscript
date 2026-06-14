@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         instagram-unseen
 // @namespace    https://github.com/taetuo
-// @homePageURL  https://github.com/taetuo/instagram-unseen-userscript
+// @homepageURL  https://github.com/taetuo/instagram-unseen-userscript
 // @supportURL   https://github.com/taetuo/instagram-unseen-userscript/issues
 // @downloadURL  https://github.com/taetuo/instagram-unseen-userscript/raw/branch/main/instagram-unseen.user.js
 // @version      0.1.0
