@@ -9,6 +9,7 @@
 // @author       TaeTuo
 // @license      AGPL-3.0-or-later
 // @match        https://*.instagram.com/*
+// @run-at       document-start
 // @grant        none
 // @noframes
 // ==/UserScript==
